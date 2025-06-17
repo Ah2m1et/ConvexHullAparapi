@@ -45,6 +45,11 @@ public class Main {
 }
 ```
 
+## Tanıtım Videosu
+
+Projenin tanıtım videosunu buradan izleyebilirsiniz:  
+[https://youtu.be/Ums6PDuawz4](https://youtu.be/Ums6PDuawz4)
+
 ## Katkıda Bulunma
 
 Katkılarınızı bekliyoruz! Lütfen önce bir issue açarak önerinizi paylaşın ve ardından bir pull request gönderin.
